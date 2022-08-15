@@ -9,3 +9,6 @@ def calc_area(area_len1, area_width2):
     result = area_len1 * area_width2
     print(result)
 
+def circle(radius):
+    return 2*3.14*radius
+
